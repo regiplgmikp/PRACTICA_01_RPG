@@ -1,6 +1,7 @@
 # PRÁCTICA 1
 ---
 Esta practica consistio en crear una pagina HTML muy basica con estilos y archivos de js para ejecutar algunas funciones
+
 ---
 ## Cómo ver la práctica
 ---
